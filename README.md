@@ -34,7 +34,6 @@ This coursework focuses on foundational and advanced topics in NLP and deep lear
 1. Clone this repository to your local machine.
 2. Install the required dependencies (e.g., TensorFlow, Keras).
 3. Open the Jupyter notebooks in the root directory to explore the code.
-4. Refer to the slides in `drive-download-20250223T174319Z-001/` for theoretical background.
 5. Watch the video lectures in `drive-download-20250310T055715Z-001/` for detailed explanations.
    
 
